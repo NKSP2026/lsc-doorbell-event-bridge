@@ -1,8 +1,8 @@
-name: LSC Doorbell Event Bridge
+name: LSC Doorbell Bridge Test
 description: Tuya doorbell events with configurable snapshots, battery, power mode and a retention-managed photo archive.
-version: "1.0.0"
-slug: lsc_doorbell_bridge
-url: https://github.com/GiannBart/lsc-doorbell-event-bridge
+version: "1.0.1"
+slug: lsc_doorbell_bridge_test
+url: https://github.com/NKSP2026/lsc-doorbell-event-bridge
 stage: stable
 startup: application
 boot: auto
